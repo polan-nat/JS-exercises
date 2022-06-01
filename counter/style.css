@@ -1,0 +1,52 @@
+* {
+    font-family: sans-serif;
+}
+body {
+    margin: 10px;
+}
+
+h3 {
+    font-size: 35px;
+    background: #989899;
+    text-align: center;
+    color: #fff;
+    border-radius: 3px;
+}
+
+.hero {
+   background: #8888bd;
+   height: 100px;
+   width: 35rem;
+   margin-left: 25rem;
+   color: #fff;
+   text-align: center;
+   padding: 2rem;
+   border-radius: 3px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p:active {
+    font-weight: bold;
+
+}
+
+button {
+    margin-left: 1rem;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    padding: 6px 16px;
+    background: #3434ac;
+    border-radius: 3px;
+}
+
+button:hover {
+    border-top: 2px solid red;
+    transform: translate(5px, 1px);
+    padding: 10px 20px;
+}
